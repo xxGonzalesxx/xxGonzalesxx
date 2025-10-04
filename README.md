@@ -1,6 +1,6 @@
  [![Header](https://github.com/xxGonzalesxx/xxGonzalesxx/blob/main/assets/channels4_banner.png)](https://t.me/xxxGonzalesxxx)
 
-  About me 
+  ## I am a beginner software developer.
 
 
 Latest YouTube Videos 
