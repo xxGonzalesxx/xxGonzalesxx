@@ -24,5 +24,5 @@ I am a beginner software developer passionate about Java backend development and
 <br>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/xxGonzalesxx.svg?label=👁️%20ПРОСМОТРОВ&color=6c63ff&labelColor=2d2d2d&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=xxGonzalesxx&label=👁️%20ПРОСМОТРОВ&color=6c63ff&style=for-the-badge">
 </p>
