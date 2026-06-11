@@ -20,5 +20,9 @@ I am a beginner software developer passionate about Java backend development and
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-  👁️ **Просмотров профиля:** (https://hits.sh/github.com/xxGonzalesxx.svg?label=)
+
+<br>
+
+<p align="center">
+  <img src="https://hits.sh/github.com/xxGonzalesxx.svg?label=👁️%20ПРОСМОТРОВ&color=6c63ff&labelColor=2d2d2d&style=for-the-badge">
+</p>
