@@ -21,4 +21,4 @@ I am a beginner software developer passionate about Java backend development and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-**👁️ Просмотров профиля:** ![](https://counter.cv/xxGonzalesxx)
+[![Просмотры](https://komarev.com/ghpvc/?username=xxGonzalesxx&label=Просмотров&color=0e75b6)](https://github.com/xxGonzalesxx)
