@@ -26,4 +26,3 @@ I am a beginner software developer passionate about Java backend development and
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xxGonzalesxx&label=👁️%20ПРОСМОТРОВ&color=6c63ff&style=for-the-badge">
 </p>
----
